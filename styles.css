@@ -233,7 +233,8 @@ main {
 
 .details,
 .agenda,
-.join {
+.join,
+.calendar {
   padding: 60px 0;
 }
 
@@ -289,6 +290,12 @@ main {
   display: flex;
   gap: 16px;
   margin-top: 20px;
+  flex-wrap: wrap;
+}
+
+.calendar-actions {
+  display: flex;
+  gap: 16px;
   flex-wrap: wrap;
 }
 

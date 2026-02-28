@@ -1,0 +1,15 @@
+﻿BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CSQA//Event AgentiX//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:csqa-event-agentix-20260314@csqa
+DTSTAMP:20260228T000000Z
+DTSTART:20260314T050000Z
+DTEND:20260314T070000Z
+SUMMARY:CSQA Event AgentiX
+LOCATION:Anblicks Inc, Block-A, 801 to 806, 8th Floor, Navratna Corporate Park, Opp Jayantilal Park, Ambli Bopal Road, Ahmedabad 380058
+DESCRIPTION:CSQA Event AgentiX. Grow Together. In-person session on AI agents, test strategy, and quality automation.
+END:VEVENT
+END:VCALENDAR
